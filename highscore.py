@@ -1,4 +1,5 @@
 """
+    Highscore Manager
     Mitar Milovanovic
     Python 3.9
     11.11.2021
